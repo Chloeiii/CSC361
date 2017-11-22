@@ -3,9 +3,8 @@
 
 Programming Assignment1: Simple Web Server (SWS)
 
-Yaxi Yu
+Chloe Yu
 
-V00828218
 
 
 
