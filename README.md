@@ -1,7 +1,5 @@
 
-/////////////////////////////////////////////////
-
-CSC361: Computer Communications and Networks
+## CSC361: Computer Communications and Networks
 
 Programming Assignment1: Simple Web Server (SWS)
 
@@ -9,7 +7,6 @@ Yaxi Yu
 
 V00828218
 
-////////////////////////////////////////////////
 
 
 1st step compile all the files:
@@ -30,4 +27,3 @@ V00828218
            ./Testfile.sh
            
 
-///////////////////////////////////////////////
